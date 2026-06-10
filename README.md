@@ -8,12 +8,12 @@ This project implements an end-to-end machine learning regression pipeline to pr
 The dataset includes several key features that influence healthcare premiums:
 
 Feature      |   Description
-Age          |   Age of the primary beneficiary
+Age          |   Age of the primary beneficiarr
 Sex          |  Insurance contractor gender (Female, Male)
 BMI          |  Body Mass Index (kg/m^2), providing an understanding of body weight relative to height
 Children.    |   Number of children covered by health insurance / Number of dependents
 Smoker.      |  Smoking status of the beneficiary
-Region.      |   The beneficiary's residential area in the US
+Region.      |   The beneficiary's residential area in the Us
 Charges      |  Target Variable: Individual medical costs billed by health insurance
 
 
