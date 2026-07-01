@@ -41,13 +41,13 @@ The model was evaluated using metrics that account for both fit and complexity:
 R² Score: ~0.80 (The model explains 80% of the variance in charges)
 Adjusted R²: ~0.79
 
-🧠 Key Technical Learnings
+## 🧠 Key Technical Learnings
 
 Data Leakage Prevention: Learned why scaling must happen after the split to avoid information from the test set "leaking" into the training phase.
 Feature Engineering: Observed how specific features (like smoker status) have a disproportionately high impact on the target variable.
 Statistical Robustness: Understanding why Adjusted R² is a more reliable metric than standard R² when evaluating multiple features.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Language: Python
 Data Manipulation: Pandas, NumPy
