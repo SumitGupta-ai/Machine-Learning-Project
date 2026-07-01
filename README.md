@@ -35,7 +35,7 @@ y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n + \epsilon
 
 
 
-✅ Model Performance
+### ✅ Model Performance
 
 The model was evaluated using metrics that account for both fit and complexity:
 R² Score: ~0.80 (The model explains 80% of the variance in charges)
