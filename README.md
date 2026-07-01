@@ -4,7 +4,7 @@
 
 This project implements an end-to-end machine learning regression pipeline to predict Medical Insurance Charges. By analyzing patient demographics and health metrics, the model provides an estimate of health care costs, which is a critical task for both insurance providers and policyholders.
 
-📊 Dataset Description
+### 📊 Dataset Description
 The dataset includes several key features that influence healthcare premiums:
 
 Feature      |   Description
@@ -19,7 +19,7 @@ Charges      |  Target Variable: Individual medical costs billed by health insur
 
 
 
-⚙️ The Workflow
+### ⚙️ The Workflow
 
 1. Data Preprocessing
 To ensure model integrity and prevent Data Leakage, the following steps were taken:
